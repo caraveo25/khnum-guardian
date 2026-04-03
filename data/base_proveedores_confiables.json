@@ -1,0 +1,322 @@
+[  
+  {  
+    "name": "Supplier 1",  
+    "category": "electronica",  
+    "contact_info": {  
+      "email": "supplier1@example.com",  
+      "phone": "123-456-7890"  
+    },  
+    "experience": "10 years",  
+    "certifications": ["ISO 9001", "CE"],  
+    "prices": {  
+      "product_a": 100,  
+      "product_b": 200  
+    },  
+    "minimum_order": 5,  
+    "ratings": 4.7  
+  },  
+  {  
+    "name": "Supplier 2",  
+    "category": "ropa",  
+    "contact_info": {  
+      "email": "supplier2@example.com",  
+      "phone": "234-567-8901"  
+    },  
+    "experience": "5 years",  
+    "certifications": ["ISO 14001"],  
+    "prices": {  
+      "product_c": 30,  
+      "product_d": 50  
+    },  
+    "minimum_order": 10,  
+    "ratings": 4.5  
+  },  
+  {  
+    "name": "Supplier 3",  
+    "category": "alimentos",  
+    "contact_info": {  
+      "email": "supplier3@example.com",  
+      "phone": "345-678-9012"  
+    },  
+    "experience": "8 years",  
+    "certifications": ["HACCP"],  
+    "prices": {  
+      "product_e": 15,  
+      "product_f": 25  
+    },  
+    "minimum_order": 20,  
+    "ratings": 4.8  
+  },  
+  {  
+    "name": "Supplier 4",  
+    "category": "maquinaria",  
+    "contact_info": {  
+      "email": "supplier4@example.com",  
+      "phone": "456-789-0123"  
+    },  
+    "experience": "15 years",  
+    "certifications": ["ISO 9001", "FDA"],  
+    "prices": {  
+      "product_g": 5000,  
+      "product_h": 7000  
+    },  
+    "minimum_order": 1,  
+    "ratings": 4.9  
+  },  
+  {  
+    "name": "Supplier 5",  
+    "category": "juguetes",  
+    "contact_info": {  
+      "email": "supplier5@example.com",  
+      "phone": "567-890-1234"  
+    },  
+    "experience": "7 years",  
+    "certifications": ["ASTM"],  
+    "prices": {  
+      "product_i": 20,  
+      "product_j": 30  
+    },  
+    "minimum_order": 15,  
+    "ratings": 4.6  
+  },  
+  {  
+    "name": "Supplier 6",  
+    "category": "cosmeticos",  
+    "contact_info": {  
+      "email": "supplier6@example.com",  
+      "phone": "678-901-2345"  
+    },  
+    "experience": "12 years",  
+    "certifications": ["FDA", "ISO 22716"],  
+    "prices": {  
+      "product_k": 35,  
+      "product_l": 40  
+    },  
+    "minimum_order": 8,  
+    "ratings": 4.8  
+  },  
+  {  
+    "name": "Supplier 7",  
+    "category": "autopartes",  
+    "contact_info": {  
+      "email": "supplier7@example.com",  
+      "phone": "789-012-3456"  
+    },  
+    "experience": "20 years",  
+    "certifications": ["ISO 9001", "IATF 16949"],  
+    "prices": {  
+      "product_m": 100,  
+      "product_n": 250  
+    },  
+    "minimum_order": 10,  
+    "ratings": 4.5  
+  },  
+  {  
+    "name": "Supplier 8",  
+    "category": "quimicos",  
+    "contact_info": {  
+      "email": "supplier8@example.com",  
+      "phone": "890-123-4567"  
+    },  
+    "experience": "9 years",  
+    "certifications": ["REACH"],  
+    "prices": {  
+      "product_o": 60,  
+      "product_p": 90  
+    },  
+    "minimum_order": 12,  
+    "ratings": 4.4  
+  },  
+  {  
+    "name": "Supplier 9",  
+    "category": "electronica",  
+    "contact_info": {  
+      "email": "supplier9@example.com",  
+      "phone": "901-234-5678"  
+    },  
+    "experience": "11 years",  
+    "certifications": ["ISO 9001", "CE"],  
+    "prices": {  
+      "product_q": 150,  
+      "product_r": 300  
+    },  
+    "minimum_order": 5,  
+    "ratings": 4.7  
+  },  
+  {  
+    "name": "Supplier 10",  
+    "category": "ropa",  
+    "contact_info": {  
+      "email": "supplier10@example.com",  
+      "phone": "012-345-6789"  
+    },  
+    "experience": "6 years",  
+    "certifications": ["ISO 14001"],  
+    "prices": {  
+      "product_s": 40,  
+      "product_t": 60  
+    },  
+    "minimum_order": 10,  
+    "ratings": 4.3  
+  },  
+  {  
+    "name": "Supplier 11",  
+    "category": "alimentos",  
+    "contact_info": {  
+      "email": "supplier11@example.com",  
+      "phone": "123-456-7890"  
+    },  
+    "experience": "5 years",  
+    "certifications": ["HACCP"],  
+    "prices": {  
+      "product_u": 15,  
+      "product_v": 25  
+    },  
+    "minimum_order": 20,  
+    "ratings": 4.6  
+  },  
+  {  
+    "name": "Supplier 12",  
+    "category": "maquinaria",  
+    "contact_info": {  
+      "email": "supplier12@example.com",  
+      "phone": "234-567-8901"  
+    },  
+    "experience": "4 years",  
+    "certifications": ["ISO 9001"],  
+    "prices": {  
+      "product_w": 7000,  
+      "product_x": 9000  
+    },  
+    "minimum_order": 1,  
+    "ratings": 4.9  
+  },  
+  {  
+    "name": "Supplier 13",  
+    "category": "juguetes",  
+    "contact_info": {  
+      "email": "supplier13@example.com",  
+      "phone": "345-678-9012"  
+    },  
+    "experience": "3 years",  
+    "certifications": ["ASTM", "CPSC"],  
+    "prices": {  
+      "product_y": 25,  
+      "product_z": 35  
+    },  
+    "minimum_order": 15,  
+    "ratings": 4.0  
+  },  
+  {  
+    "name": "Supplier 14",  
+    "category": "cosmeticos",  
+    "contact_info": {  
+      "email": "supplier14@example.com",  
+      "phone": "456-789-0123"  
+    },  
+    "experience": "8 years",  
+    "certifications": ["FDA", "ISO 22716"],  
+    "prices": {  
+      "product_aa": 60,  
+      "product_ab": 80  
+    },  
+    "minimum_order": 5,  
+    "ratings": 4.5  
+  },  
+  {  
+    "name": "Supplier 15",  
+    "category": "autopartes",  
+    "contact_info": {  
+      "email": "supplier15@example.com",  
+      "phone": "567-890-1234"  
+    },  
+    "experience": "9 years",  
+    "certifications": ["ISO 9001", "IATF 16949"],  
+    "prices": {  
+      "product_ac": 120,  
+      "product_ad": 240  
+    },  
+    "minimum_order": 8,  
+    "ratings": 4.2  
+  },  
+  {  
+    "name": "Supplier 16",  
+    "category": "quimicos",  
+    "contact_info": {  
+      "email": "supplier16@example.com",  
+      "phone": "678-901-2345"  
+    },  
+    "experience": "11 years",  
+    "certifications": ["REACH"],  
+    "prices": {  
+      "product_ae": 70,  
+      "product_af": 100  
+    },  
+    "minimum_order": 6,  
+    "ratings": 4.4  
+  },  
+  {  
+    "name": "Supplier 17",  
+    "category": "electronica",  
+    "contact_info": {  
+      "email": "supplier17@example.com",  
+      "phone": "789-012-3456"  
+    },  
+    "experience": "10 years",  
+    ":"certifications": ["ISO 9001", "CE"],  
+    "prices": {  
+      "product_ag": 150,  
+      "product_ah": 280  
+    },  
+    "minimum_order": 10,  
+    "ratings": 4.5  
+  },  
+  {  
+    "name": "Supplier 18",  
+    "category": "ropa",  
+    "contact_info": {  
+      "email": "supplier18@example.com",  
+      "phone": "890-123-4567"  
+    },  
+    "experience": "6 years",  
+    "certifications": ["ISO 14001"],  
+    "prices": {  
+      "product_ai": 45,  
+      "product_aj": 65  
+    },  
+    "minimum_order": 10,  
+    "ratings": 4.6  
+  },  
+  {  
+    "name": "Supplier 19",  
+    "category": "alimentos",  
+    "contact_info": {  
+      "email": "supplier19@example.com",  
+      "phone": "123-456-7890"  
+    },  
+    "experience": "7 years",  
+    "certifications": ["HACCP"],  
+    "prices": {  
+      "product_ak": 20,  
+      "product_al": 30  
+    },  
+    "minimum_order": 15,  
+    "ratings": 4.7  
+  },  
+  {  
+    "name": "Supplier 20",  
+    "category": "maquinaria",  
+    "contact_info": {  
+      "email": "supplier20@example.com",  
+      "phone": "234-567-8901"  
+    },  
+    "experience": "5 years",  
+    "certifications": ["ISO 9001"],  
+    "prices": {  
+      "product_am": 4000,  
+      "product_an": 6000  
+    },  
+    "minimum_order": 1,  
+    "ratings": 4.3  
+  }  
+]
